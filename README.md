@@ -1,5 +1,5 @@
 # me
-I added --*me* after lines I changed in init.lua
+I added --me after lines I changed in init.lua
 
 # kickstart.nvim
 
