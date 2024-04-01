@@ -1,3 +1,6 @@
+# me
+I added --*me* after lines I changed in init.lua
+
 # kickstart.nvim
 
 ## Introduction
